@@ -1,0 +1,44 @@
+.view .view-header {
+  background-color: #556e58;
+  color: #5a7a68;
+}
+
+.view-header .taxonomy-title {
+  font-family: Helvetica,Arial,Sans-Serif;
+}
+
+.navigation a {
+  font-family: Helvetica,Arial,Sans-Serif;
+}
+
+.odd .views-field {
+  padding-top: 0px;
+  padding-right: 0px;
+  height: 0px;
+  padding-left: 0px;
+}
+
+#region-content .region-inner {
+  margin-right: 0px;
+  margin-bottom: 0px;
+  border-bottom-width: 0px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.field .field-items {
+  background-color: #aec3d9;
+}
+
+.field-items .field-item {
+  background-color: transparent;
+}
+
+form div {
+  padding-left: 0px;
+}
+
+.component-type-commerce-price-formatted-amount .component-title {
+  background-color: #ffffff;
+}
+

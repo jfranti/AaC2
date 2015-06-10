@@ -7,5 +7,55 @@
 }
 
 body{
-    background: white;
+    background: #C2D1B2;
+}
+
+/*Header*/
+#zone-user-wrapper {
+    background-color: #C2AD99;
+}
+
+/*Footer 1*/
+#zone-footer2-wrapper {
+    background-color: #C2AD99;
+}
+
+/*Footer 2*/
+#zone-footer-wrapper {
+    background-color: #A37547;
+}
+
+#zone-content {
+    background-color: #FFB56C;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.bx-controls-direction {
+    display: none;
+}
+
+.field-content {
+    background-color: #FFB56C;
+}
+
+h2 {
+    text-align: center;
+}
+
+.collection {
+    display: none;
+}
+
+.view-header {
+    border-radius: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 10px;
+    background: black;
+    color: black;
 }
